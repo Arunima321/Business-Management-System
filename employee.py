@@ -9,7 +9,7 @@ from tkinter import ttk
 from time import strftime
 from datetime import date
 from tkinter import scrolledtext as tkst
-#============================================
+
 
 
 
